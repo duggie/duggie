@@ -81,5 +81,18 @@ I love building systems that help people. If a piece of technology makes a custo
 **Website:** https://about.me/duggie  
 **GitHub:** you're already here 😊
 
-> **Engineering superpower:** *Gets stuff done — safely, reliably and with the team still smiling.*
+---
 
+## Meaningful quotes I like, live by, about me or said by me:
+
+"Don't be afraid to make mistakes."
+
+"Duggie is the glue which holds teams together."
+
+"Duggie is Mr Bazaarvoice, he lives and breathes what we do."
+
+"Duggie is Mr EXL, the Ireland Engineering team *IS* him."
+
+"You never know less about a project or subject than you do at the start. Make decisions which will result in less refactoring in the future."
+
+"Don't be a dick!"
