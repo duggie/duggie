@@ -76,14 +76,14 @@ I love building systems that help people. If a piece of technology makes a custo
 
 ---
 
-## 💬 Get in Touch
+##  📬 Get in Touch
 **LinkedIn:** https://uk.linkedin.com/in/duggie  
 **Website:** https://about.me/duggie  
 **GitHub:** you're already here 😊
 
 ---
 
-## Meaningful quotes I like, live by, about me or said by me:
+## 💬 Meaningful quotes I like, live by, about me or said by me:
 
 "Don't be afraid to make mistakes."
 
@@ -95,4 +95,8 @@ I love building systems that help people. If a piece of technology makes a custo
 
 "You never know less about a project or subject than you do at the start. Make decisions which will result in less refactoring in the future."
 
+"I write tests because I like to sleep well at night."
+
 "Don't be a dick!"
+
+"Under-promise and over-deliver."
