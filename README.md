@@ -100,3 +100,5 @@ I love building systems that help people. If a piece of technology makes a custo
 "Don't be a dick!"
 
 "Under-promise and over-deliver."
+
+"Always do better."
