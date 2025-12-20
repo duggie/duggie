@@ -1,6 +1,7 @@
 # Hi, it's me, I'm Duggie
 
 **Director of Engineering | Principal Architect**
+
 Hands-on technology leader building regulated cloud, data, and AI platforms.
 
 ---
