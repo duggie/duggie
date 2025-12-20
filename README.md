@@ -1,104 +1,42 @@
-# 👋 Hi, I'm Duggie  
-**Engineering Leader • Senior Technical Architect (AWS) • Python Practitioner • Serverless Evangelist**
+# Hi, it's me, I'm Duggie
 
-I'm a hands-on senior architect with 25 years’ experience designing, building and stabilising systems across insurance, healthcare and finance industries (EXL). Wealth of experience in large ecommerce platforms and distribution (BlackStar). I know how to give things away (for gathering reviews - Bazaarvoice). I made your internet look better with webfonts (Monotype).
-
-I’m known for being a “lynch-pin” - I get things done. To engineering teams, I bring calm, senior presence. That means stability, clarity and a strong sense of direction.
-
-I architect systems end-to-end, with test-first, secure-by-design, cost-aware and quality as my key guiding principles. I lead by example. I can get involved with some hands-on contributions when my teams need me there.
+**Director of Engineering | Principal Architect**
+Hands-on technology leader building regulated cloud, data, and AI platforms.
 
 ---
 
-## 🧠 What I Do
-- **Serverless-first architecture** on AWS (Lambda, Step Functions, EventBridge, S3, SQS, SNS)
-- **Python engineering** with TDD, clean interfaces and strong typing. [FastAPI](https://fastapi.tiangolo.com) and [boto3](https://pypi.org/project/boto3/) features a lot
-- **Event-driven design**, replayable workflows, predictable systems
-- **Stabilising struggling projects** and making teams more dependable
-- **Security engineering** with least privilege, IAM discipline, TLSv1.3 (1.2 minimum) and mTLS, CMKs over service keys, secrets management
-- **CI/CD pipelines** with Jenkins and GitHub Actions (or literally anything over doing it manually)
-- **DevEx & team leadership**, creating safe, supportive, high-performance cultures
+## 🔹 Profile
+
+I lead and scale engineering organisations while remaining technically engaged in architecture, platform design, and delivery at enterprise scale. My focus is on cloud-native systems, distributed platforms, and production-ready data and AI workloads — particularly within regulated environments.
+
+My production work lives in private repositories, owned by my employer or clients. This space reflects reference material, architectural examples, and insights that align with leadership-level technical thinking. You won't find daily feature commits. I am a low-volume contributor.
 
 ---
 
-## 🛠️ Tools I Rely On
-**Python & Quality:**  
-- Ruff, Black, Pytest, Mocks, Dependency Injection, Synthetic Data Generators  
-- Structured logging, type hints everywhere, ADRs, clean boundaries
-- using AI to assist my workflows
+## 🚀 Focus Areas
 
-**AWS:**  
-- Lambda, Step Functions, EventBridge, S3, Dynamo/RDS, API Gateway  
-- SSM Parameter Store, Secrets Manager, CloudWatch, X-Ray  
-- Terraform/Terragrunt for infra as code (SAM for personal projects)
-
-**Containers & Local Dev:**  
-- Docker, multi-stage builds, minimal images, consistent team-wide execution  
-- Docker Compose / Makefiles for orchestration  
-- Local-only dev for speed, trust boundaries and cost control
-
-**Security & Scanning:**  
-- Trivy, Terrascan, SonarQube, Gitleaks  
-- IAM least privilege, encryption everywhere, VPC boundaries
+- Engineering leadership at scale
+- AWS-native and serverless architecture
+- Event-driven and distributed systems
+- Data platforms and ML/GenAI in production
+- Platform engineering and developer enablement
+- Cost, reliability, security, and operational excellence
 
 ---
 
-## 🧪 Testing Philosophy
-- **TDD from the start**  
-- Unit tests + integration tests proving component interactions  
-- Mock AWS calls locally (Moto), deploy to isolated dev accounts for full pipeline validation  
-- Minimum **80% coverage**, automated quality gates  
-- Contract testing where appropriate
+## 📌 What You’ll Find Here
+
+This profile highlights:
+
+- Architectural patterns and reference implementations
+- Examples of platform design and infrastructure patterns
+- Tools and utilities that support cloud and distributed systems
+- Select curated projects illustrating best practice
 
 ---
 
-## 🧱 How I Architect
-- Draw diagrams *before* writing code — cheaper, clearer, collaborative. Easier to change than code
-- Favour simple, event-driven serverless systems  
-- Code to **interfaces** so services can be swapped with minimal friction  
-- Multi-stage DB migrations with reversible paths and short-lived audit tables  
-- Prefer 10 safe deployments over 1 risky “big bang”
+## 📫 Find Me
 
----
-
-## 👥 How I Lead
-- Pair programming, constructive reviews, continuous coaching  
-- Raise engineering standards by mentoring - and celebrating lessons learned  
-- Define & promote best practices; enforce Definition of Ready & Done  
-- Create safe spaces for mistakes and learning  
-- Protect the team from distraction so they can focus on doing their best work  
-- I believe in coaching people to become leaders — including making myself redundant
-- All of your work is documented in a ticket on the board. If it's not on the board then you don't have to do it!
-
----
-
-## 🚀 What Motivates Me
-I love building systems that help people. If a piece of technology makes a customer’s application smoother, or reduces toil for a colleague, that’s the work I care about. I also want AI and ML to be used *for good* — accelerating medical research, helping diagnoses, reducing costs while improving outcomes.
-
----
-
-##  📬 Get in Touch
-**LinkedIn:** https://uk.linkedin.com/in/duggie  
-**Website:** https://about.me/duggie  
-**GitHub:** you're already here 😊
-
----
-
-## 💬 Meaningful quotes I like, live by, about me or said by me:
-
-"Don't be afraid to make mistakes."
-
-"Duggie is the glue which holds teams together."
-
-"Duggie is Mr Bazaarvoice, he lives and breathes what we do."
-
-"Duggie is Mr EXL, the Ireland Engineering team *IS* him."
-
-"You never know less about a project or subject than you do at the start. Make decisions which will result in less refactoring in the future."
-
-"I write tests because I like to sleep well at night."
-
-"Don't be a dick!"
-
-"Under-promise and over-deliver."
-
-"Always do better."
+- LinkedIn: [https://linkedin.com/in/duggie](https://linkedin.com/in/duggie)
+- Email: [email.duggie@protonmail.com](email.duggie@protonmail.com)
+- Signal: [https://signal.me/#u/duggie.55](https://signal.me/#u/duggie.55)
