@@ -36,7 +36,7 @@ This profile highlights:
 
 ---
 
-## 📫 Find Me
+## 📫 Connect With Me
 
 - LinkedIn: [https://linkedin.com/in/duggie](https://linkedin.com/in/duggie)
 - Email: [email.duggie@protonmail.com](mailto:email.duggie@protonmail.com)
