@@ -38,5 +38,5 @@ This profile highlights:
 ## 📫 Find Me
 
 - LinkedIn: [https://linkedin.com/in/duggie](https://linkedin.com/in/duggie)
-- Email: [email.duggie@protonmail.com](email.duggie@protonmail.com)
+- Email: [email.duggie@protonmail.com](mailto:email.duggie@protonmail.com)
 - Signal: [https://signal.me/#u/duggie.55](https://signal.me/#u/duggie.55)
