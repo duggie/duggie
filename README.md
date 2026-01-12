@@ -34,6 +34,9 @@ This profile highlights:
 - Tools and utilities that support cloud and distributed systems
 - Select curated projects illustrating best practice
 
+## 🗞️ In The Press
+- EXL Celebrates 25 years in 2024 with personal stories - [video](https://www.facebook.com/ExlService/videos/duggie/913682153954204/)
+
 ---
 
 ## 📫 Connect With Me
