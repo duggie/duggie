@@ -34,6 +34,13 @@ This profile highlights:
 - Tools and utilities that support cloud and distributed systems
 - Select curated projects illustrating best practice
 
+---
+
+## 🗣️ Let Me Speak
+- [Securing AI: Non-negotiables when creating or incorporating AI into your solution](https://gist.github.com/duggie/e1051d9441eaa79bc7631a1adb2b4afb)
+
+---
+
 ## 🗞️ In The Press
 - EXL Celebrates 25 years in 2024 with personal stories - [video](https://www.facebook.com/ExlService/videos/duggie/913682153954204/)
 
