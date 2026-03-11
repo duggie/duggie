@@ -12,6 +12,17 @@ I lead and scale engineering organisations while remaining technically engaged i
 
 My production work lives in private repositories, owned by my employer or clients. This space reflects reference material, architectural examples, and insights that align with leadership-level technical thinking. You won't find daily feature commits. I am a low-volume contributor.
 
+### Personality Check
+
+I recently took a [DISC](https://www.discprofile.com/what-is-disc) personality assessment, which identified me as "a calm, rigorous leader who can also take charge and bring people with them".
+
+Natural base: **steady, careful, high-trust operator.**
+Leadership mode: **assertive, visible, persuasive direction-setter.**
+
+* Very strong S (Steadiness), strong C (Conscientious) - dependable, disciplined, calm, thoughtful, supportive, quality-driven
+* Some D (Dominance)- more decisive, more assertive, stronger boundaries, clearer authority
+* And some I (Influence) - more visible, more persuasive, more energising, better at broad influence
+
 ---
 
 ## 🚀 Focus Areas
